@@ -32,6 +32,10 @@ reapet=False # Here u can choose to generate a new account every 120 seconds, fa
 
 # Clear Accounts.txt
 AccountGen.cleanAccountFile()
+
+#Install, trys to install all dependencies listed obove with pip
+AccountGen.install()
+
 ```
 
 
