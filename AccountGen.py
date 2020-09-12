@@ -161,12 +161,12 @@ def generate(proxy = 'Null', reapet = False, headless = True, init = True):
 
         try: # Write account
             if s == True:
-                success(email + ':' + password)
+                success(email.rstrip() + ':' + password.rstrip())
                 o = open(cwd + '\\Accounts.txt', 'a')
-                o.write(email + ':' + password + '\n')
+                o.write(email.rstrip() + ':' + password.rstrip() + '\n')
                 o.close()
                 if reapet == False:
-                    return email + ':' + password
+                    return email.rstrip() + ':' + password.rstrip()
             else:
                 error('Error generating account')
         except:
