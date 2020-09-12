@@ -25,7 +25,7 @@ import AccountGen
 
 # Generate a account
 AccountGen.generate(
-proxy='', # Here u can use custom proxy - Leave emty for none
+proxy='', # Here u can use custom proxy - Leave emty for none -Little glichy
 headless=True, # Here u can make the program run in the background > Experimental option
 reapet=False # Here u can choose to generate a new account every 120 seconds, faster wont work! All acoounts will save in Accounts.txt.
 )
