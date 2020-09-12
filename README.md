@@ -4,7 +4,11 @@
 Ignore the bad english
 This program is used for generating discord accounts - This program is in beta
 * Version 1.0
-	
+
+## Suport
+* Let me know if anny errors or suggestions
+* Support for more features > https://www.buymeacoffee.com/PowerKuz
+
 ## Program - deatails
 Developer(s):
 * PowerKuz
@@ -26,6 +30,4 @@ reapet=False # Here u can choose to generate a new account every 120 seconds, fa
 )
 ```
 
-## Suport
-* Let me know if anny errors or suggestions
-* Support for more features > https://www.buymeacoffee.com/PowerKuz
+
