@@ -8,8 +8,12 @@ This program is used for generating discord accounts - This program is in beta
 Developer(s):
 * PowerKuz
 
+## Dependencies
+
+* Selenium
+* Python3
+
 ## Usage - Python
-To run this project, install it locally using npm:
 
 ```
 import AccountGen
