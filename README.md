@@ -22,5 +22,5 @@ reapet=False # Here u can choose to generate a new account every 120 seconds, fa
 ```
 
 ## Suport
-Let me know if anny errors
-Support for more features > https://www.buymeacoffee.com/PowerKuz
+* Let me know if anny errors
+* Support for more features > https://www.buymeacoffee.com/PowerKuz
