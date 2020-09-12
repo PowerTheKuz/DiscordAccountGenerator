@@ -37,5 +37,5 @@ AccountGen.cleanAccountFile()
 AccountGen.install()
 
 ```
-
+# I am not responsible for any actions for anyone who use this program.
 
