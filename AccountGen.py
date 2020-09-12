@@ -1,6 +1,6 @@
 #...
     # Code from > https://github.com/PowerTheKuz/DiscordAccountGenerator
-    # Suport > https://www.buymeacoffee.com/PowerKuz
+    # Support > https://www.buymeacoffee.com/PowerKuz
 
 import os
 import time
