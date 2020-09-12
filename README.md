@@ -1,4 +1,4 @@
-# DiscordAccountGenerator
+# Discord-Account-Generator
 
 ## General info
 Ignore the bad english
