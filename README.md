@@ -7,7 +7,7 @@ This program is used for generating discord accounts - This program is in beta
 
 ## Suport
 * Let me know if anny errors or suggestions
-* Support for more features > https://www.buymeacoffee.com/PowerKuz
+* Support for more features and motivation > https://www.buymeacoffee.com/PowerKuz
 
 ## Program - deatails
 Developer(s):
