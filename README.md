@@ -2,6 +2,7 @@
 
 ## General info
 Ignore the bad english
+
 This program is used for generating discord accounts - This program is in beta
 * Version 1.0
 
