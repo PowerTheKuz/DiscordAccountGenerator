@@ -16,6 +16,7 @@ Developer(s):
 ## Dependencies
 
 * Selenium
+* colored
 * Python3
 
 ## Usage - Python
